@@ -1,0 +1,13 @@
+---
+title: "demo-bookdown"
+author: "Diretoria Central de Transparência Ativa"
+site: demobookdown :: demobookdown_site
+documentclass: book
+github-repo:
+  transparencia-mg / guia-transparencia-ativa: 
+---
+
+# Introdução
+
+Inicie aqui a introdução do seu bookdown.
+
